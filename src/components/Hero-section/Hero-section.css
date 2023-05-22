@@ -1,0 +1,31 @@
+p {
+    margin: 0;
+}
+.hero-section{
+    margin: 0 16px 0 15px;
+
+}
+
+.hero-section-text {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    margin: 18px 0 0 16px;
+}
+
+.hero-section-description {
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: -0.01em;
+    margin: 16px 16px 16px 16px;
+}
+
+.height, .weight {
+    font-size: 12px;
+    line-height: 12px;
+    color: #919EB6;
+    position: relative;
+    top: -17px;
+    left: 43px;
+    margin-right: 10px;
+}

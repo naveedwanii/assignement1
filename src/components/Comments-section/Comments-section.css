@@ -1,0 +1,58 @@
+
+.comments-section {
+    margin-left: 14px;
+}
+.comment-icon {
+    margin-left: 14px;
+}
+.comments-para {
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    margin: 18px 16px 0 58px;
+
+}
+.comment-name {
+    position: relative;
+    top: -7px;
+    left: 7px;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+}
+.comment-tag{
+    font-size: 10px;
+    line-height: 10px;
+    position: relative;
+    top: -7px;
+    left: 10px;
+}
+.comment-tick {
+    position: relative;
+    top: -5px;
+    left: 7px;
+}
+/* .comments-icons {
+    display: flex;
+} */
+.comments-section-icons{
+    display: flex;
+    align-items: center;
+    margin-left: 58px;
+    margin-top: 10px;
+}
+.comments-subsection {
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.comment-icon-inner {
+    margin-right: 28px;
+}
+.comments-section-digits {
+    font-size: 12px;
+    line-height: 12px;
+  position: relative;
+    top: -4px;
+    left: -15px;
+    color: #919EB6;
+}

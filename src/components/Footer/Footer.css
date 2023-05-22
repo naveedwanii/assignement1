@@ -1,0 +1,22 @@
+.footer-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #F7F8FA;
+    margin-top: 30px;
+}
+.footer-icon{
+    margin: 12px 18px 12px;
+}
+.footer-title {
+    font-size: 12px;
+    line-height: 12px;
+    color: #AFB9CA;
+    margin-left: 18px;
+}
+.footer-tag-text {
+    font-size: 12px;
+    line-height: 12px;
+    color: #919EB6;
+   margin: 16px;
+}

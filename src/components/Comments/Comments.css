@@ -1,0 +1,22 @@
+.comments-container {
+    display: flex;
+    align-items: center;
+    margin: 19px 0 19px 22px;
+}
+.comments-icons {
+    margin-right: 28px;
+}
+.comments-digits{
+    position: relative;
+    left: -13px;
+    top: -5px;
+    font-size: 12px;
+    line-height: 12px;
+    color: #919EB6;
+
+}
+.hr-line {
+   height: 2px;
+        background: #F7F8FA;
+        border: none;
+}

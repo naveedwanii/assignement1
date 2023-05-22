@@ -1,0 +1,34 @@
+.profile-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 16px 0 15px;
+
+}
+.profile-section-button {
+    border: none;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background: #01B99F;
+    cursor: pointer;
+}
+.profile-section-text {
+    position: relative;
+    top: -16px;
+    left: 7px;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+}
+.profile-section-tick {
+     position: relative;
+   top: -16px;
+    left: 12px;
+}
+.profile-section-tag {
+    font-size: 10px;
+    line-height: 10px;
+     position: relative;
+   top: -18px;
+    left: 16px
+}
